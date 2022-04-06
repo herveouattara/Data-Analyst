@@ -1,0 +1,8 @@
+﻿Département;Site;Nombre Batiments;;Surface;Type de chauffage;;Consommation en kWh PCI
+21;Dijon;13;;101302 m2  shon;Gaz;;3445000
+58;Nevers;8;;17598 m2 shon;Gaz;;1675000
+71;Le Creusot;13;;41458 m2 shon;Gaz;;3848000
+;Chalon;;;;;;
+;Macon;;;;;;
+89;Auxerre;4;;13646m2 shon;Gaz;;1585000
+Total;Tous les sites;38;;;;;
